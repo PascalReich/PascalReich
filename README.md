@@ -2,8 +2,8 @@
 
 
 
-- 👀 I’m interested in Computer Science, especially Machine Learning.
-- 🏫 I’m currently a freshman studying Computer Science at San Diego State University
+- 👀 I’m interested in Computer Science, especially Cybersecurity and Machine Learning.
+- 🏫 I’m currently a sophomore studying Computer Science at San Diego State University
 
 ![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PascalReich&count_private=true)
 
