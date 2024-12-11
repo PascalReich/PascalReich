@@ -7,7 +7,7 @@
 
 <!--![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PascalReich&count_private=true)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalReich&exclude_repo=CarGame)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalReich&exclude_repo=CarGame,SimplyCooking)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 PascalReich/PascalReich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
