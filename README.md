@@ -2,9 +2,12 @@
 
 
 
-- 👀 I’m interested in Computer Science, especially Cybersecurity and Machine Learning.
-- 🏫 I’m currently a senior studying Computer Science at San Diego State University
-
+- 👀 I’m interested in Computer Science, especially Embedded Systems and Internet of Things.
+- ⌛ I've been interested in computers for as long as I can remember, and started coding at age 8.
+- 🖥️ My interest have changed a lot during the years, from simple websites, machine learning, video game programming, etc.
+- 🎓 I recently graduated from San Diego State University. 
+- 🏫 I’m currently doing an Masters of Software Engineering in Embedded Systems at Carnegie Mellon University.
+  
 <!--![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PascalReich&count_private=true)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalReich&exclude_repo=CarGame,SimplyCooking)](https://github.com/anuraghazra/github-readme-stats)
