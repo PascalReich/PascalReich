@@ -6,7 +6,7 @@
 - ⌛ I've been interested in computers for as long as I can remember, and started coding at age 8.
 - 🖥️ My interest have changed a lot during the years, from simple websites, machine learning, video game programming, etc.
 - 🎓 I recently graduated from San Diego State University. 
-- 🏫 I’m currently doing an Masters of Software Engineering in Embedded Systems at Carnegie Mellon University.
+- 🏫 I’m currently doing a Masters of Software Engineering in Embedded Systems at Carnegie Mellon University.
   
 <!--![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PascalReich&count_private=true)-->
 
