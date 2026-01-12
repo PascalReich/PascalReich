@@ -10,7 +10,7 @@
   
 <!--![Pascal's GitHub stats](https://github-readme-stats.vercel.app/api?username=PascalReich&count_private=true)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PascalReich&exclude_repo=CarGame,SimplyCooking)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=PascalReich&exclude_repo=CarGame,SimplyCooking)](https://github.com/anuraghazra/github-readme-stats)
 
 Unfortunately, some notable experience is captured in private respositories, like my work for [RTEClab](https://github.com/rteclab) and the real time task support for linux repo :/ 
 
